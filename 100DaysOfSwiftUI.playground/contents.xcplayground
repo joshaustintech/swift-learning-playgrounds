@@ -4,5 +4,6 @@
         <page name='005-conditions'/>
         <page name='006-loops'/>
         <page name='Checkpoint 3'/>
+        <page name='007-functions'/>
     </pages>
 </playground>
