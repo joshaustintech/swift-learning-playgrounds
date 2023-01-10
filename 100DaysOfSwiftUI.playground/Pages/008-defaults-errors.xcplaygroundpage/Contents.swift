@@ -29,4 +29,4 @@ func checkPassword(_ password: String) throws -> PasswordResult {
 }
 
 //checkPassword("12345")
-checkPassword("8cNmtA3gY#p!8t3d")
+try checkPassword("8cNmtA3gY#p!8t3d")
