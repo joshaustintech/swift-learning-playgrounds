@@ -7,5 +7,6 @@
         <page name='007-functions'/>
         <page name='008-defaults-errors'/>
         <page name='Checkpoint 4'/>
+        <page name='009-closures'/>
     </pages>
 </playground>
